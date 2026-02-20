@@ -1,0 +1,15 @@
+# Upstream PageIndex repository currently has no packaging metadata.
+# Keep this reference for traceability; runtime bootstrap in app/index_manager.py clones it when needed.
+# git+https://github.com/VectifyAI/PageIndex.git
+
+fastapi
+uvicorn
+python-dotenv
+openai
+pypdf
+PyPDF2
+pymupdf
+tiktoken
+pyyaml
+python-multipart
+
